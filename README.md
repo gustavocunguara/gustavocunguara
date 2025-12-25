@@ -1,89 +1,161 @@
-<h2 align="left">Hi 👋! My name is Gustavo Cunguara and I'm a Software Developer, from Mozambique</h2>
-
-###
+# 👋 Olá! Eu sou Gustavo Cunguara
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavocunguara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavocunguara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+### Desenvolvedor Full-Stack | Moçambique 🇲🇿
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-825EE6?style=for-the-badge&logo=codesandbox&logoColor=825EE6)](https://gustavocunguara.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavocunguara/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.cunguara?igsh=YzkwdGZuMTRmdnVx)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavocunguara@hotmail.com)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+## 🚀 Sobre Mim
 
-###
+Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento full-stack. Atualmente focado em criar soluções web e mobile que façam a diferença. Sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+
+- 🔭 Atualmente trabalhando em projetos full-stack com React e Spring Boot
+- 🌱 Aprendendo sobre arquitetura de microsserviços e DevOps
+- 👯 Procurando colaborar em projetos open source
+- 💬 Pergunte-me sobre: JavaScript, React, Python, Java
+- ⚡ Fato curioso: Adoro resolver problemas complexos com código elegante
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://www.instagram.com/gustavo.cunguara?igsh=YzkwdGZuMTRmdnVx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavocunguara/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://gustavocunguara.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codesandbox&label=&color=8257E6&logoColor=8257E6&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-  </a>
-  <a href="mailto:gustavocunguara@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocunguara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunguara&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavocunguara&theme=dracula" alt="GitHub Streak"/>
+</div>
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavocunguara&theme=dracula&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/gustavocunguara/gustavocunguara/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🌟 Projetos em Destaque
+
+### 🎨 [Portfolio Pessoal](https://github.com/gustavocunguara/portfolio)
+Meu portfolio desenvolvido com SCSS, apresentando meus projetos e habilidades de forma interativa e responsiva.
+- **Tecnologias:** HTML, SCSS, JavaScript
+- **Features:** Design responsivo, animações suaves, otimizado para SEO
+
+### 🚀 [Next.js Boilerplate](https://github.com/gustavocunguara/Next-js-Boilerplate)
+Template inicial para projetos Next.js com TypeScript e boas práticas configuradas.
+- **Tecnologias:** Next.js, TypeScript, TailwindCSS
+- **Features:** SSR, rotas otimizadas, componentes reutilizáveis
+
+### 📚 [Audiolivro](https://github.com/gustavocunguara/audiolivro)
+Aplicação para conversão de texto em áudio usando Python.
+- **Tecnologias:** Python
+- **Features:** Text-to-speech, interface simples
+
+### 💻 [Mini Python Editor](https://github.com/gustavocunguara/mini-python-editor)
+Editor de código Python minimalista para iniciantes.
+- **Tecnologias:** JavaScript, HTML, CSS
+- **Features:** Syntax highlighting, execução de código
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🎯 Objetivos 2025
+
+- [ ] Contribuir para 10+ projetos open source
+- [ ] Publicar 5 artigos técnicos sobre desenvolvimento
+- [ ] Completar certificações em Cloud Computing
+- [ ] Desenvolver e lançar 3 aplicações completas
+- [ ] Aumentar presença na comunidade tech moçambicana
+
+---
+
+## 💼 Experiência & Educação
+
+🎓 **Formação Acadêmica**
+- Estudante de Engenharia Informática / Ciência da Computação
+
+💡 **Áreas de Interesse**
+- Desenvolvimento Web Full-Stack
+- Desenvolvimento Mobile
+- Inteligência Artificial
+- DevOps & Cloud Computing
+
+---
+
+## 📫 Como me Encontrar
+
+- 💼 LinkedIn: [@gustavocunguara](https://www.linkedin.com/in/gustavocunguara/)
+- 🌐 Portfolio: [gustavocunguara.netlify.app](https://gustavocunguara.netlify.app/)
+- 📧 Email: gustavocunguara@hotmail.com
+- 📸 Instagram: [@gustavo.cunguara](https://www.instagram.com/gustavo.cunguara?igsh=YzkwdGZuMTRmdnVx)
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gustavocunguara/gustavocunguara/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Obrigado pela visita! ⭐️ Deixe uma estrela se gostar dos meus projetos!**
+
+![Visitor Count](https://profile-counter.glitch.me/gustavocunguara/count.svg)
+
+</div>
