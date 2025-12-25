@@ -17,7 +17,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento full-stack. Atualmente focado em criar soluções web e mobile que façam a diferença. Sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
-- 🔭 Atualmente trabalhando em projetos full-stack com React e Spring Boot
+- 🔭 Atualmente trabalhando em projetos full-stack
 - 🌱 Aprendendo sobre arquitetura de microsserviços e DevOps
 - 👯 Procurando colaborar em projetos open source
 - 💬 Pergunte-me sobre: JavaScript, React, Python, Java
@@ -123,7 +123,7 @@ Editor de código Python minimalista para iniciantes.
 ## 💼 Experiência & Educação
 
 🎓 **Formação Acadêmica**
-- Estudante de Engenharia Informática / Ciência da Computação
+- Formado de Tecnologia de Informação pela Universidade Católica de Moçambique - Faculdade de Engenharia
 
 💡 **Áreas de Interesse**
 - Desenvolvimento Web Full-Stack
